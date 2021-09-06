@@ -54,13 +54,13 @@ studentId = "213231342334566589"
 //姓名
 studentName = "陈少一"
 //校区
-location = "[\"广州校区\"]"
+location = "[\"长安校区\"]"
 //紧急联系人
 tel = "18982192888"
 //请假理由
 reason = "外出实习"
 //外出地点
-route = "金融城"
+route = "银泰城"
 //用户头像 默认随机
 userHead = "http://lorempixel.com/200/200/"
 //请假类型 事假 病假 实习 科研 出差 回家
@@ -72,9 +72,9 @@ state = 2
 
 //审批信息
 //辅导员姓名
-approveName = "李少洁"
+approveName = "韩伟"
 //辅导员学院
-approveAcademy = "金融学院"
+approveAcademy = "物理学与信息技术学院"
 //辅导员头像 默认随机
 approveHead = "http://lorempixel.com/400/400/"
 //审批理由
