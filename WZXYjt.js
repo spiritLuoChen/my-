@@ -50,9 +50,9 @@ function prepareApproveTime(time){
 
 //用户信息
 //学生id
-studentId = "213231342334566589"
+studentId = "22106329"
 //姓名
-studentName = "陈少一"
+studentName = "王珏"
 //校区
 location = "[\"长安校区\"]"
 //紧急联系人
